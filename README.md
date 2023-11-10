@@ -11,8 +11,8 @@ J'ai été contraint de supprimer un bâtiment de la zone ainsi que quelques obj
 
 Ou alors, vous pouvez les désactiver temporairement de cette manière :
 
-<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" /> -->
-<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" -->
+" <!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" /> --> "
+" <!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" --> "
 
 
 Mon Workshop: https://steamcommunity.com/profiles/76561198433367030/myworkshopfiles/
