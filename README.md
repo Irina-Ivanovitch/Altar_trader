@@ -33,8 +33,8 @@ I was forced to remove a building from the area and some objects and car wrecks.
 
 Or, you can temporarily disable them like this:
 
-```<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" -->```
+```<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" /> -->```
 
-```<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" -->```												 
+```<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" /> -->```												 
 
 My Workshop: https://steamcommunity.com/profiles/76561198433367030/myworkshopfiles/
