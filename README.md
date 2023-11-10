@@ -27,12 +27,14 @@ Without the use of the "DayZ Editor Loader," you won't be able to properly view 
 
 I was forced to remove a building from the area and some objects and car wrecks. Consequently, there will be loot on the ground that won't be consistent with the area. You will need to find and remove two lines in the "Mapgrouppos.xml" file:
 
-<group name="Land_Power_Station" pos="8176.222168 476.092896 9116.163086" rpy="-0.000000 0.000000 153.200897" a="-63.200905" />
-<group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" />
+```<group name="Land_Power_Station" pos="8176.222168 476.092896 9116.163086" rpy="-0.000000 0.000000 153.200897" a="-63.200905" />```
+
+```<group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" />```
 
 Or, you can temporarily disable them like this:
 
-<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" />
-<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" -->												 
+```<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" />```
+
+```<!-- <group name="Land_Wreck_offroad02_aban1" pos="8162.414551 475.874451 9106.598633" rpy="-0.000000 0.000000 170.426163" a="-80.426163" -->```												 
 
 My Workshop: https://steamcommunity.com/profiles/76561198433367030/myworkshopfiles/
