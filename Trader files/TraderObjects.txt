@@ -1,0 +1,153 @@
+ // ------------------------------------------------------ Trader Markers ALTAR -------------------------------------------------------
+
+<TraderMarker> 			0 									// Infirmerie
+<TraderMarkerPosition>	8170.969238, 473.072968, 9059.720703	
+<TraderMarkerSafezone>	80
+<TraderMarker> 			1 									// Outillages     
+<TraderMarkerPosition>	8183.894043, 475.075073, 9087.236328
+<TraderMarkerSafezone>	80
+<TraderMarker> 			2 									// Armes
+<TraderMarkerPosition>	8177.850586, 475.135162, 9097.618164
+<TraderMarkerSafezone>	80
+<TraderMarker> 			3 									// Munitions     
+<TraderMarkerPosition>	8176.621582, 475.135162, 9100.175781	
+<TraderMarkerSafezone>	80																		
+<TraderMarker> 			4 									// Vetements     
+<TraderMarkerPosition>	8160.966797, 474.854584, 9068.981445
+<TraderMarkerSafezone>	80	
+<TraderMarker> 			5 								    // voiture
+<TraderMarkerPosition>	8213.179688, 469.870026, 9046.501953	
+<TraderMarkerSafezone>	80
+<VehicleSpawn>			8210.559570, 469.997589, 9051.127930
+<VehicleSpawnOri>		150, 0, 0
+<TraderMarker> 			6							        // Nourritures
+<TraderMarkerPosition>	8174.740234, 472.350769, 9046.364258
+<TraderMarkerSafezone>	80	
+
+//new trader
+
+<TraderMarker> 			7 									// Chasse     
+<TraderMarkerPosition>	8188.513184, 473.148163, 9003.481445	
+<TraderMarkerSafezone>	60																		
+<TraderMarker> 			8 									// Peche     
+<TraderMarkerPosition>	8189.230957, 472.115448, 8996.719727
+<TraderMarkerSafezone>	60	
+
+// ------------------------------------------------------ Tradeur ALTAR Spawn -------------------------
+
+<Object> SurvivorF_Linda		//medic (0)
+<ObjectPosition> 8170.969238, 473.072968, 9059.720703
+<ObjectOrientation> 065 , 0, 0
+<ObjectAttachment>  FirstAidKit
+<ObjectAttachment>	MedicalScrubsShirt_Blue
+<ObjectAttachment>	SurgicalGloves_LightBlue 
+<ObjectAttachment>	Skirt_Blue
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>  SurgicalMask	 
+<ObjectAttachment>	Ballerinas_blue
+
+<Object> SurvivorF_Frida   //outillages (1)
+<ObjectPosition>    8183.894043, 475.075073, 9087.236328
+<ObjectOrientation> 250, 0, 0
+<ObjectAttachment>	SledgeHammer
+<ObjectAttachment>  ConstructionHelmet_White
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	JumpsuitPants_Green
+<ObjectAttachment>	JumpsuitJacket_Green
+<ObjectAttachment>	DressShoes_Black
+<ObjectAttachment>	ConstructionHelmet_Green
+<ObjectAttachment>  MountainBag_Green
+<ObjectAttachment>	Pickaxe
+
+<Object> SurvivorF_Linda  // armes (2)
+<ObjectPosition>    8177.850586, 475.135162, 9097.618164
+<ObjectOrientation> 280 , 0, 0
+<ObjectAttachment>	Skirt_yellow            
+<ObjectAttachment>	MilitaryBoots_Redpunk   
+<ObjectAttachment>	M65Jacket_Black 
+<ObjectAttachment>	AliceBag_Black
+<ObjectAttachment>	HighCapacityVest_Black
+<ObjectAttachment>  Armband_Red
+<ObjectAttachment>	AviatorGlasses	
+<ObjectAttachment>	SVD
+<ObjectAttachment>	Mag_SVD_10Rnd
+<ObjectAttachment>	SVD
+<ObjectAttachment>	Mag_SVD_10Rnd
+<ObjectAttachment>	MilitaryBeret_ChDKZ
+
+<Object> SurvivorF_Keiko //munitions (3)
+<ObjectPosition> 8176.621582, 475.135162, 9100.175781
+<ObjectOrientation> 220, 0, 0
+<ObjectAttachment>  AmmoBox
+<ObjectAttachment>	TacticalGloves_Black
+<ObjectAttachment>	CargoPants_Black             
+<ObjectAttachment>	JungleBoots_Black   
+<ObjectAttachment>	M65Jacket_Black 
+<ObjectAttachment>	BeanieHat_Black
+<ObjectAttachment>	HighCapacityVest_Black
+<ObjectAttachment>	AssaultBag_Black
+
+<Object> SurvivorM_Denis //vêtements (4)
+<ObjectPosition>    8160.966797, 474.854584, 9068.981445
+<ObjectOrientation> 065, 0, 0
+<ObjectAttachment>	AliceBag_Green
+<ObjectAttachment>	CargoPants_Green
+<ObjectAttachment>	HikingJacket_Green
+<ObjectAttachment>	Mich2001Helmet
+<ObjectAttachment>	NVGoggles
+<ObjectAttachment>	CombatBoots_Green
+<ObjectAttachment>	BalaclavaMask_Green
+<ObjectAttachment>	BandanaMask_GreenPattern	
+
+<Object> SurvivorM_Peter  // mecano (5)
+<ObjectPosition>    8213.179688, 469.870026, 9046.501953
+<ObjectOrientation> -30, 0, 0
+<ObjectAttachment>	ConstructionHelmet_Orange
+<ObjectAttachment>  LugWrench
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitPants_Grey
+<ObjectAttachment>	JumpsuitJacket_Gray
+<ObjectAttachment>	WorkingBoots_Grey
+<ObjectAttachment>	BeanieHat_Beige
+<ObjectAttachment>	WorkingGloves_Beige
+
+<Object> SurvivorF_Linda   // Nourritures (6)
+<ObjectPosition>    8174.740234, 472.350769, 9046.364258
+<ObjectOrientation>    70, 0,  0
+<ObjectAttachment>  Pitchfork
+<ObjectAttachment>  FarmingHoe
+<ObjectAttachment>  FangeKnife
+<ObjectAttachment>  LeatherHat_Brown
+<ObjectAttachment>  Jeans_Brown
+<ObjectAttachment>  JumpsuitJacket_Gray
+<ObjectAttachment>  BeanieHat_Black
+<ObjectAttachment>  WorkingGloves_Yellow
+<ObjectAttachment>  Wellies_Black
+
+
+// new pnj
+
+<Object> SurvivorM_Denis // Chasse  (7)
+<ObjectPosition>    8188.513184, 473.148163, 9003.481445
+<ObjectOrientation> 15.6, 0, 0
+<ObjectAttachment>	HuntingBag_Hannah
+<ObjectAttachment>	HuntingJacket_Summer
+<ObjectAttachment>	HunterPants_Summer
+<ObjectAttachment>	CowboyHat_black
+<ObjectAttachment>	CombatBoots_Green
+<ObjectAttachment>	Crossbow_Autumn
+<ObjectAttachment>	B95		
+
+<Object> SurvivorM_Peter  // Peche (8)
+<ObjectPosition>    8189.230957, 472.115448, 8996.719727
+<ObjectOrientation> 65.27, 0, 0
+<ObjectAttachment>	BoonieHat_Black
+<ObjectAttachment>  DryBag_Black 
+<ObjectAttachment>	ImprovisedFishingRod
+<ObjectAttachment>	LeatherPants_Brown
+<ObjectAttachment>	LeatherJacket_Brown
+<ObjectAttachment>	Wellies_Black
+<ObjectAttachment>	WoolGlovesFingerless_Black   
+ 
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!
